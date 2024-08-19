@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\cedus\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\cedus\\.nuget\\packages",
+      "E:\\Program Files (x86)\\VisualStudio2022\\Shared\\NuGetPackages"
+    ]
+  }
+}
